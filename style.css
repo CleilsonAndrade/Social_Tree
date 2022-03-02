@@ -1,0 +1,17 @@
+:root {
+  --body-bg-color: #faf7fd;
+  --purple: #bb99dd;
+}
+
+body {
+  background-color: var(--body-bg-color);
+}
+
+main {
+  width: 600px;
+  margin: 0 auto;
+}
+
+#avatar span {
+  display: block;
+}
