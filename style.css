@@ -55,3 +55,8 @@ a {
 li + li {
   margin-top: 1rem;
 }
+
+#list li span a {
+  font-weight: 600;
+  color: var(--purple);
+}
