@@ -3,15 +3,55 @@
   --purple: #bb99dd;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: var(--body-bg-color);
+  font-family: 'Poppins', sans-serif;
 }
 
 main {
-  width: 600px;
-  margin: 0 auto;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
-#avatar span {
+main img {
+  height: 200px;
+  border-radius: 50%;
+  padding: 7px;
+  border: 2px solid var(--purple);
+}
+
+#instagram {
   display: block;
+  margin-top: 0.9375rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+#list {
+  margin-top: 2.06rem;
+  list-style: none;
+}
+
+#list li {
+  width: 326px;
+  height: 49px;
+  border: 2px solid var(--purple);
+  border-radius: 4px;
+  padding: 12px;
+  text-align: center;
+}
+
+li + li {
+  margin-top: 1rem;
 }
