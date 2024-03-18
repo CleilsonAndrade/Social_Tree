@@ -6,9 +6,8 @@
 
 
 # 📒 Índice
-
 * [Descrição](#descrição)
-* [Features](#features) 
+* [Requisitos Funcionais](#requisitos)
 * [Tecnologias](#tecnologias)
 * [Design](#design)
   * [Cores](#cores)
@@ -20,17 +19,14 @@
 
 Página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido. Utilizando HTML e CSS.
 
-## Features
-
+# 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
 
 # 💻 <span id="tecnologias">Tecnologias</span>
-
 - **HTML**
 - **CSS**
 
 # 🎨 <span id="design">Design</span>
-
 - O modelo final para versão desktop e mobile está disponível na pasta `./design`
 
 - <span id="cores">Cores<br></span>
@@ -41,7 +37,6 @@ Página com uma lista de links (menu) que pode ser usada em perfis de redes soci
   * Poppins, sans-serif
 
 # 🚀 <span id="instalação">Instalação</span>
-
 ```bash
   # Clone este repositório:
   $ git clone https://github.com/CleilsonAndrade/Social_Tree
@@ -49,7 +44,6 @@ Página com uma lista de links (menu) que pode ser usada em perfis de redes soci
 ```
 
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
