@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Social Tree</h1>
-  <p>Página simples com links de um pessoa.</p>
+  <p>Página simples com links de um pessoa, realizando estudos de HTML semântico.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
