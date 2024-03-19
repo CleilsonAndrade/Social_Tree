@@ -17,7 +17,7 @@
 
 # 📃 <span id="descrição">Descrição</span>
 
-Página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido. Utilizando HTML e CSS.
+Página com uma lista de links (menu) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido. Utilizando HTML e CSS, realizando estudos de HTML semântico.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
