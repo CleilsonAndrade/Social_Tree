@@ -39,7 +39,7 @@ Página com uma lista de links (menu) que pode ser usada em perfis de redes soci
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/Social_Tree
+  $ git clone https://github.com/CleilsonAndrade/Social_Tree.git
   $ cd ./Social_Tree
 ```
 
